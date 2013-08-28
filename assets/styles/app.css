@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+.post-container {
+	background-color: #FFFFFE;
+	border: 1px;
+}
+
+.left-menu-container{
+	margin: 20px 20px;
+}
