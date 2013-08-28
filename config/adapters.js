@@ -21,14 +21,14 @@ module.exports.adapters = {
 //'default': 'mongo',
 
 
-mongo: {
-  module   : 'sails-mongo',
-  host     : 'localhost',
-  port     : 27017,
+//mongo: {
+  //module   : 'sails-mongo',
+  //host     : 'localhost',
+  //port     : 27017,
  // user     : 'username',
   //password : 'password',
-  database : 'test'
-},
+  //database : 'test'
+//},
 
   // In-memory adapter for DEVELOPMENT ONLY
   memory: {
