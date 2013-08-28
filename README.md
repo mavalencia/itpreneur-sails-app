@@ -1,2 +1,0 @@
-# itpreneur
-### a Sails application
